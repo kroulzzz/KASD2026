@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\obj\Debug\КАСД_18.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\obj\Debug\КАСД_18.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\bin\Debug\КАСД_18.exe.config
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\bin\Debug\КАСД_18.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\bin\Debug\КАСД_18.pdb
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\obj\Debug\КАСД_18.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_18\КАСД_18\obj\Debug\КАСД_18.pdb
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\bin\Debug\КАСД_18.exe.config
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\bin\Debug\КАСД_18.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\bin\Debug\КАСД_18.pdb
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\obj\Debug\КАСД_18.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\obj\Debug\КАСД_18.exe.config
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\obj\Debug\КАСД_18.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\obj\Debug\КАСД_18.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД.18\КАСД_18\obj\Debug\КАСД_18.pdb
