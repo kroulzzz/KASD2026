@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\obj\Debug\КАСД_ЗАД19.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\obj\Debug\КАСД_ЗАД19.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\bin\Debug\КАСД_ЗАД19.exe.config
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\bin\Debug\КАСД_ЗАД19.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\bin\Debug\КАСД_ЗАД19.pdb
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\obj\Debug\КАСД_ЗАД19.exe
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\obj\Debug\КАСД_ЗАД19.pdb
+C:\Users\Dell\Desktop\для учебы\КАСД\КАСД_ЗАД19\КАСД_ЗАД19\obj\Debug\КАСД_ЗАД19.exe.config
